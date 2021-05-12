@@ -27,8 +27,9 @@ You can download the file I have provided to you or go to [Notepad++](https://no
 #### 2. **Configuration of Notepad++**
 In order to use Notepad++ with the UDL that you are going to install, please, do the following ammendments:
 * Open **Notepad++**
-* In the window it will appear, go to *Editing* and make sure that in the section *Line Wrap* the radio button *Aligned* is selected
-* Go to *Language* and, in the section *Tab Size*, please change 4 by 2 and make sure that the option *Replace by space* is selected
+* Settings -> Preferences -> Editing
+* Under Line Wrap select the Aligned Radio Button.
+* * Go to *Language* and, in the section *Tab Size*, please change 4 by 2 and make sure that the option *Replace by space* is selected
 * Go to *Print* and select *Print line number*
 * Click *Close* to exit.
 
